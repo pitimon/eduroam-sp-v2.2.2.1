@@ -1,0 +1,11 @@
+# Quickwit Authentication Configuration
+# Rename this file to qw-auth.properties and set proper values
+
+# Quickwit API username
+QW_USER=username
+
+# Quickwit API password
+QW_PASS=password
+
+# Quickwit API URL (without trailing slash)
+QW_URL=https://your-quickwit-server

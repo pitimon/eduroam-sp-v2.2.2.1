@@ -19,3 +19,8 @@
 
 # Go workspace file
 go.work
+*.properties
+eduroam-sp
+*.sh
+output/*
+logs/*
