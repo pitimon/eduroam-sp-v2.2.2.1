@@ -24,3 +24,4 @@ eduroam-sp
 *.sh
 output/*
 logs/*
+.DS_Store
